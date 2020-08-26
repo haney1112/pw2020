@@ -1,3 +1,4 @@
 resolusi
 -konsisten belajar java
 -membuat program java mandiri
+-belajar banyak program baru
