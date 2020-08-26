@@ -1,0 +1,3 @@
+resolusi
+-konsisten belajar java
+-membuat program java mandiri
